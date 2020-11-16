@@ -11,4 +11,9 @@ img{
   height:auto;
 }
 
+div.newbox img{
+  width: "500";
+  height: "600";
+}
+
 
